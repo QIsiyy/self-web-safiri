@@ -1,0 +1,15 @@
+node_modules
+dist
+dist-ssr
+*.local
+release
+build
+.DS_Store
+*.log
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
